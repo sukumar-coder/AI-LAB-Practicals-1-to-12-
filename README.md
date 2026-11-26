@@ -1,1 +1,0 @@
-# AI-LAB-Practicals-1-to-12-
