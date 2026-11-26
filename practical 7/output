@@ -1,10 +1,12 @@
-MAP COLORING PROBLEM
---------------------
+Weather Prediction
+------------------
+Outlook: Sunny
+Temperature: Cool
+Humidity: Normal
+Wind: Weak
 
-Solution Found:
+Prediction: Yes
 
-A : Red
-B : Green
-C : Blue
-D : Red
-E : Green
+Prediction Probabilities:
+Play No: 34.57%
+Play Yes: 65.43%
